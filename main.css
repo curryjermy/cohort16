@@ -1,0 +1,12 @@
+body{
+    background-color: color-mix(in srgb-linear, color percentage, color percentage);
+    background-color: bisque;
+}
+h1{
+    color: aquamarine;
+    background-color: color-mix(in oklch increasing hue, color percentage, color percentage);
+    background-color: chartreuse;
+}
+.href{
+    color: crimson;
+}
