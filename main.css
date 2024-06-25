@@ -7,6 +7,10 @@ h1{
     background-color: color-mix(in oklch increasing hue, color percentage, color percentage);
     background-color: chartreuse;
 }
-.href{
+#href{
     color: crimson;
+}
+#boi{
+    color: blueviolet;
+    font-size: 29px;
 }
